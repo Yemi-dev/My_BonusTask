@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My Bonus Task</string>
+    <string name="text1">KODECAMP \n ANDROID \n DEVELOPER</string>
+    <string name="see">See More</string>
+    <string name="text2">I am passionate, driven \n and committed to finish \n Kodecamp as one of the \n best.</string>
+    <string name="me">TODO</string>
+    <string name="me1">TODO</string>
+    <string name="me2">TODO</string>
+<!--    <string name="me" tools:ignore="DuplicateDefinition">TODO</string>-->
+<!--    <string name="me2">TODO</string>-->
+    <string name="me3">TODO</string>
+</resources>
